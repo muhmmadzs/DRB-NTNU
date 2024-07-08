@@ -2,7 +2,7 @@
 Deep Autoencoder Model for Bridge Damage Detection
 
 
-This repository contains a code for damage assessment using a deep autoencoder model. This method comes from a soon-to-be-published paper in the SAGE Journal. The paper's title is "Numerical benchmark for road bridge damage detection from passing vehicles responses applied to four data-driven methods."
+This repository contains a code for damage assessment using a deep autoencoder model. This method comes from a soon-to-be-published paper. The paper's title is [Numerical benchmark for road bridge damage detection from passing vehicles responses applied to four data-driven methods](https://link.springer.com/article/10.1007/s43452-024-01001-9)
 
 
 # Core Focus
